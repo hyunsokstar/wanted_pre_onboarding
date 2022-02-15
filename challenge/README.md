@@ -15,5 +15,5 @@ hooks를 이용해 구현
 
 <br /> <br />
 
-# 구현 노트
-<a href="www.skilnote-for-jpa.co.kr"> 구현 과정 정리 </a>
+# 구현 과정 정리 노트
+www.skilnote-for-jpa.co.kr
