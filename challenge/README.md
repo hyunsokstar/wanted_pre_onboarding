@@ -4,6 +4,8 @@
 # 어떻게 구현했나?
 before를 이용해서
 
+<br /> <br />
+
 # 모달 창 구현시 어려웠던점
 모달창이 나타다고 사라지게 하는 부분
 
@@ -11,4 +13,4 @@ before를 이용해서
 hooks를 이용해 구현
 
 # 구현 노트
-www.skilnote-for-jpa.co.kr
+<a href="www.skilnote-for-jpa.co.kr"> 구현 노트 </a>
