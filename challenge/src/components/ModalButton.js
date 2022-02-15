@@ -1,11 +1,12 @@
 import React from "react";
 import "./ModalButton.css";
 
-
-function ModalButton() {
+function ModalButton({openModal}) {
   return (
     <>
-      <button className="openModalBtn">open</button>
+      <button className="openModalBtn" onClick={() => openModal(true)}>
+        open
+      </button>
     </>
   );
 }
