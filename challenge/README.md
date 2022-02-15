@@ -12,5 +12,8 @@ before를 이용해서
 # 어떻게 구현했나?
 hooks를 이용해 구현
 
+
+<br /> <br />
+
 # 구현 노트
-<a href="www.skilnote-for-jpa.co.kr"> 구현 노트 </a>
+<a href="www.skilnote-for-jpa.co.kr"> 구현 과정 정리 </a>
