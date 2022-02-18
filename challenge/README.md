@@ -17,3 +17,7 @@ hooks를 이용해 구현
 
 # 구현 과정 정리 노트
 www.skilnote-for-jpa.co.kr
+
+
+# 전체 정리
+http://www.skilnote-for-jpa.co.kr/wm/myshortcut/challenge-for-pre-onboarding/119
